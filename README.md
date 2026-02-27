@@ -17,6 +17,9 @@ Tu misión será:
 1. Realice el diagrama de contexto con las generalidades de su sistema.
    (Añadirlo al README.md)
 
+![img.png](img.png)
+
+
 2. Identifique 2 patrones de diseño que puedan aplicarse al caso de estudio,
    especificando por cada uno:  
    a. Nombre del Patrón:
