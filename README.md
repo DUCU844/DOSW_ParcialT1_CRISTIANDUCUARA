@@ -17,7 +17,7 @@ Tu misión será:
 1. Realice el diagrama de contexto con las generalidades de su sistema.
    (Añadirlo al README.md)
 
-![img.png](img.png)
+![img.png](dosc/images/DriagramaContexto.png)
 
 
 2. Identifique 2 patrones de diseño que puedan aplicarse al caso de estudio,
@@ -41,11 +41,17 @@ Tu misión será:
    seleccionado utilice uno o los dos patrones identificados. (Añadirlo al
    README.md)
 
+   Requerimientos realizados en: [requeriments.md](dosc%2Frequeriments%2Frequeriments.md)
+   el requerimiento RF-01 Recibir pedido personalizado de cada cliente concideo que aplica ambos patrones ya debe generar
+   el pedido y adicional a esto debe adicionar elementos si el cliente lo desea. 
+
 4. Del listado anterior, seleccione los 2 requerimientos funcionales más
    importantes del sistema y desarrolle un diagrama de casos de uso con su
    respectiva historia de usuario. Garantiza que al menos un requerimiento
    funcional seleccionado utilice un patrón identificado. (Añadirlo al
    README.md)
+
+   
 
 5. Especifique los 2 requerimientos funcionales seleccionados en el punto
    anterior, siguiendo la plantilla de Análisis de requerimientos.
