@@ -105,3 +105,10 @@ validara el pedido y confirmara.
 
 
 ![img.png](img.png)
+
+| Campo | Detalle                                        |
+|---|------------------------------------------------|
+| **Funcionalidad** | Colores institucionales                        |
+| **Código** | RF-04                                          |
+| **Nombre** | La aplicación web use colores institucionales  |
+| **Tipo** | No funcional                                   |

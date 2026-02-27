@@ -58,13 +58,19 @@ Tu misión será:
    Nota: No es necesario que especifique ni la sección de prototipo, ni las
    abreviaturas e historial de revisión.
    (Añadir los documentos al repositorio, en la carpeta de requerimientos).
+   
+   Especificado RF-01 en: [requeriments.md](dosc%2Frequeriments%2Frequeriments.md)
 
 6. Seleccione un requerimiento asociado al o patrones identificados y realice
    la descomposición de tareas asociadas: Épica - Historia de Usuario - Al
    menos 3 tareas. (Añadirlo al README.md)
 
+   https://adrianducuara-parcial.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&atlOrigin=eyJpIjoiMjQ1MjIzM2U2MGQzNDFjN2E1ZTBmMmZmMzdmZDJlYzIiLCJwIjoiaiJ9
+
 7. Realice un diagrama de clases que permita entender su solución.
    Mencione, ¿cuáles principios SOLID está aplicando? ¿Y por qué?
+
+
 
 8. Desarrolle en código su solución; en el método main plantee una entrada y
    salida que valide el correcto funcionamiento.
