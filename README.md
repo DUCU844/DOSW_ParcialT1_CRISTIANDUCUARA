@@ -21,16 +21,17 @@ Tu misión será:
    especificando por cada uno:  
    a. Nombre del Patrón:
       1. Decorator 
-      2. Factory Method
+      2. Brigde
 
    b. Tipo de patrón :
       1. Estructural
-      2. Creacional   
+      2. Estructural   
 
    c. Justificación de la decisión:
    1. Me parece que es uno de los patrones mas ideales ya que al ser personalisable cada pedido va a ser diferente 
    adicionando las diferentes opciones que se ofrecen.  
-   2. Este patron me parece el man adecuado para crear pedidos el mismo se encarga de crear dependiendo del contexto.
+   2. Como vamos a hacer combinacion de productos podemos decir que es la mejor opcion ya que con esto si agregan nuevos
+   toppings pueden cambiar independientemente.
 
 3. Identifique 5 requerimientos del sistema y clasifíquelos en funcionales (3) y
    no funcionales (2). Garantice que al menos un requerimiento funcional
