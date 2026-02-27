@@ -51,7 +51,7 @@ Tu misión será:
    funcional seleccionado utilice un patrón identificado. (Añadirlo al
    README.md)
 
-   
+   ![img.png](dosc/images/CasoDeUso.png)
 
 5. Especifique los 2 requerimientos funcionales seleccionados en el punto
    anterior, siguiendo la plantilla de Análisis de requerimientos.

@@ -103,3 +103,5 @@ validara el pedido y confirmara.
 | CAPTCHA     | Completely Automated Public Turing test to tell Computers and Humans Apart  |
 | Usuario     | Persona externa interesada en registrat un pedido a ECI PAYMENT SWEET STORE |
 
+
+![img.png](img.png)
